@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#config_zack.py ignore
+config_zack.py
+
 # C extensions
 *.so
 
